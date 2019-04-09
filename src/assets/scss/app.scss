@@ -1,0 +1,11 @@
+@import './custom-variables';
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+@import '../../../node_modules/bootswatch/dist/journal/bootswatch';
+
+body {
+  background-color: $gray-300;
+}
+
+.container {
+  padding-top: 56px;
+}
